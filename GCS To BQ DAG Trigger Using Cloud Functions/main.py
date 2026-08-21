@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import functions_framework
 import google.auth
 from google.auth.transport.requests import AuthorizedSession
